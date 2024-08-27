@@ -6,13 +6,14 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: 郑逸 ZhengYi
+title: Freelence Concept Artist
+email: yolaxzheng@gmail.com
+       1626457434@qq.com    
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
